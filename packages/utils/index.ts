@@ -2,4 +2,8 @@ function handleStr(str: string) {
   return str.split(",")
 }
 
-export { handleStr }
+function handleNumber(num: number) {
+  return num.toFixed()
+}
+
+export { handleStr, handleNumber }
