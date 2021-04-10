@@ -1,7 +1,5 @@
-import { handleStr } from
-const a = handleStr('sdd,ads')
-console.log(a);
+import { handleStr } from "@jacano-test/utils"
+const a = handleStr("sdd,ads")
+console.log(a)
 
-export {
-  a
-}
+export { a }

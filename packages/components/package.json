@@ -3,6 +3,7 @@
   "version": "1.0.1",
   "main": "build/index.js",
   "types": "build/index.d.ts",
+  "author": "Jacano",
   "license": "MIT",
   "scripts": {
     "build": "tsc"

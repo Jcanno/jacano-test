@@ -8,7 +8,8 @@
     "packages/*"
   ],
   "scripts": {
-    "lerna:init": "lerna init"
+    "lerna:init": "lerna init",
+    "build": "lerna build"
   },
   "dependencies": {
     "lerna": "^4.0.0"
