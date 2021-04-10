@@ -6,4 +6,8 @@ function handleNumber(num: number) {
   return num.toFixed()
 }
 
-export { handleStr, handleNumber }
+function handleArray(nums: number[]) {
+  return nums.fill(1)
+}
+
+export { handleStr, handleNumber, handleArray }
