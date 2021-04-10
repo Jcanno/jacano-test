@@ -1,0 +1,17 @@
+{
+  "name": "@jacano-test/components",
+  "version": "1.0.0",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.13.14",
+    "typescript": "^4.2.3"
+  },
+  "dependencies": {
+    "@jacano-test/utils": "^1.0.0"
+  }
+}
