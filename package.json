@@ -9,7 +9,7 @@
   ],
   "scripts": {
     "lerna:init": "lerna init",
-    "build": "lerna build"
+    "build": "lerna run build"
   },
   "dependencies": {
     "lerna": "^4.0.0"
