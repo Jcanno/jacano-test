@@ -10,4 +10,8 @@ function handleArray(nums: number[]) {
   return nums.fill(1)
 }
 
-export { handleStr, handleNumber, handleArray }
+function handlePhone(nums: number[]) {
+  return nums.filter((num) => num)
+}
+
+export { handleStr, handleNumber, handleArray, handlePhone }
