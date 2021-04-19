@@ -1,6 +1,6 @@
 {
   "name": "@jacano-test/components",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "main": "build/index.js",
   "types": "build/index.d.ts",
   "author": "Jacano",
@@ -16,6 +16,6 @@
     "typescript": "^4.2.3"
   },
   "dependencies": {
-    "@jacano-test/utils": "^0.0.3"
+    "@jacano-test/utils": "^0.0.5"
   }
 }
