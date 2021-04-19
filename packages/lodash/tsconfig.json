@@ -1,0 +1,15 @@
+{
+	"compilerOptions": {
+		"experimentalDecorators": false,
+		"target": "ESNext",
+		"module": "commonjs",
+		"lib": [
+			"DOM", "ES2015"
+		],
+		"jsx": "react",
+		"strict": true,
+		"declaration": true,
+		"outDir": "build",
+		"sourceMap": true
+	}
+}
